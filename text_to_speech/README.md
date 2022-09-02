@@ -1,2 +1,2 @@
-# simple_gtts
-Text-to-Speech with Gtts (Google Tts)
+- Text-to-Speech with Gtts (Google Tts)
+- I didn't know that gtts-cli can do that
