@@ -1,2 +1,2 @@
 # fun-pythons-things
-Some python fun program 
+Some python fun programs
