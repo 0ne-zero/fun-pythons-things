@@ -1,0 +1,1 @@
+- Simple program that gets path of QR code file in first argument and shows data of that QR code
